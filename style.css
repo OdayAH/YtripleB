@@ -422,6 +422,9 @@ padding-bottom: 30px;
     background-color: white;
     
 }
+#our,#business{
+    margin-left: 15px;
+}
 #projectss h1{
     font-size: 30px;
     padding-top: 50px;
@@ -431,7 +434,7 @@ padding-bottom: 30px;
 }
 #projectss ul{
     list-style-type: none;
- margin-left: -100px;   
+ margin-left: -150px;   
 }
 #projectss li{
     display: inline-block;
