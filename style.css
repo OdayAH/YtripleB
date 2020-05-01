@@ -948,21 +948,19 @@ hr{
         height: auto;
     }
 #projectss ul{
-    display: block;
+    padding-left: 80px;
+    
+       font-size: 10px;
 }
- #projectss li{
-     padding-left: 50px;
-     font-size: 20px;
- }
- #projectss li:nth-child(3),li:nth-child(4){
-margin-left: 25px;
- }
-#projectss li:nth-child(2){
-    margin-left: -20px;
+#projectss li{
+ width:300%;   
 }
+
  .twolines{
-text-align: start;
-font-size: 20px;
+text-align: center;
+
+
+
  }
  footer{
      height: auto;
@@ -989,7 +987,9 @@ form{
 }
 
 }
-
+@media only screen and(min-width:350px){
+    
+}
   
   /* Dropdown container - needed to position the dropdown content */
   .dropdown {
