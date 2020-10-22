@@ -115,8 +115,8 @@ if(!$conn){
         <div id="my-nav" class="">
             <ul class="navbar-nav mr-auto ">
                 <li class="nav-item"><a class="" href="#">Home</a></li>
-                <li class="nav-item"><a class="" href="#services">Services</a></li>
-                <li class="nav-item"><a class="" href="#about">About</a></li>
+                <li class="nav-item"><a class="" href="#about">Services</a></li>
+                <li class="nav-item"><a class="" href="#services">About</a></li>
                 <li class="nav-item"><a class="" href="#news">News</a></li>
                 <li class="nav-item"><a class="" href="#contact">Contact</a></li>
             </ul>
@@ -310,6 +310,7 @@ if(!$conn){
 </div>
 <div class="container-fluid gtco-features-list">
     <div class="container">
+    <h2>What we offer</h2>
         <div class="row">
             <div class="media col-md-6 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/quality-results.png" alt=""></div>
@@ -368,72 +369,42 @@ if(!$conn){
         <h2>Latest News & Articles</h2>
         <div class="owl-carousel owl-carousel2 owl-theme">
             <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news1.jpg" alt="">
+                <div class="card text-center"><img class="card-img-top" src="images/article1.jpg" alt="">
                     <div class="card-body text-left pr-0 pl-0">
-                        <h5>Aenean ultrices lorem quis blandit
-                            tempor urabitur accumsan. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                        <h5>7-Step Social Media Advertising Strategy to Better Performing Ads
+                             </h5>
+                        <p class="card-text">You’ve felt it. Your organic content doesn’t have the same reach on social media anymore. In fact, BuzzSumo found Facebook posts from brand pages saw a 50% decline in engagement just since January 2017. Ouch. You’ve certainly felt it...
+                         </p>
+                        <a href="https://www.linkedin.com/pulse/7-step-social-media-advertising-strategy-better-ads-haissam-massoud/?trackingId=1N2TQBmCRmK1Eb6ncSythA%3D%3D">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
                 </div>
             </div>
             <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news2.jpg" alt="">
+                <div class="card text-center"><img class="card-img-top" src="images/article2.png" alt="">
                     <div class="card-body text-left pr-0 pl-0">
-                        <h5> Nam vel nisi eget odio pulvinar
-                            iaculis. Fusce aliquet. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                        <h5> Best Social Media Management Workflows To Help Your Business </h5>
+                        <p class="card-text">Facebook, YouTube, Instagram, Tumblr, Twitter, LinkedIn, Snapchat, Pinterest—with so many viral social channels out there, it often gets tricky for brands/businesses to keep track of their social media calendar.
+                        Social media is the front and centre of...
+                         </p>
+                        <a href="https://www.linkedin.com/pulse/best-social-media-management-workflows-help-your-business-massoud-1f/?trackingId=T5kOw4ymRsGMFCDU5gMK9A%3D%3D">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
                 </div>
             </div>
             <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news3.jpg" alt="">
+                <div class="card text-center"><img class="card-img-top" src="images/article3.png" alt="">
                     <div class="card-body text-left pr-0 pl-0">
-                        <h5>Morbi faucibus odio sollicitudin
-                            risus scelerisque dignissim. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                        <h5>Why And How To Improve Your Average Email Response Rate</h5>
+                        <p class="card-text">Key performance indicators (KPI) like open rate, click-through rate are widely used to determine the results and improve email marketing performance, but what about the average response rate of your email? How much does it matter? How does it impact...</p>
+                        <a href="https://www.linkedin.com/pulse/why-how-improve-your-average-email-response-rate-haissam-massoud/?trackingId=p2%2F5CfY1SWq3yCYiGy0uwA%3D%3D">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
                 </div>
             </div>
             <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news1.jpg" alt="">
+                <div class="card text-center"><img class="card-img-top" src="images/article4.png" alt="">
                     <div class="card-body text-left pr-0 pl-0">
-                        <h5>Aenean ultrices lorem quis blandit
-                            tempor urabitur accumsan. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                        <h5>TOP SEO TOOLS ULTIMATE GUIDE!! </h5>
+                        <p class="card-text">An SEO tool that covers several bases, Majestic bills itself as a backlink checker and link building suite. The platforms bread-and-butter is backlink tracking–after all, they’ve crawled over 1.3 trillion links since 2004–and they’re pros at distilling backlink data into... </p>
+                        <a href="https://www.linkedin.com/pulse/top-seo-tools-ultimate-guide-haissam-massoud/">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
                 </div>
             </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news2.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5> Nam vel nisi eget odio pulvinar
-                            iaculis. Fusce aliquet. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news3.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5>Morbi faucibus odio sollicitudin
-                            risus scelerisque dignissim. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-        </div>
+   
     </div>
 </div>
 <footer class="container-fluid" id="gtco-footer">
@@ -457,11 +428,10 @@ if(!$conn){
                         <h4>Company</h4>
                         <ul class="nav flex-column company-nav">
                             <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">News</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">FAQ's</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#about">Services</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#services">About</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#new">articles</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                         </ul>
                         <h4 class="mt-5">Follow Us</h4>
                         <ul class="nav follow-us-nav">
@@ -479,11 +449,10 @@ if(!$conn){
                         <h4>Services</h4>
                         <ul class="nav flex-column services-nav">
                             <li class="nav-item"><a class="nav-link" href="#">Web Design</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Graphics Design</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">App Design</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">PPC</a></li>
                             <li class="nav-item"><a class="nav-link" href="#">SEO</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Marketing</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Analytic</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Social Media Management</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Email Marketing</a></li>
                         </ul>
                     </div>
                     <div class="col-12">
