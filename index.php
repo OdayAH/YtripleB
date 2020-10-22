@@ -197,7 +197,7 @@ if(!$conn){
                 <h2> Explore The Services<br/>
                     We Offer For You </h2>
                 <p>  Powered by leading creativity, strategy building and teamwork. Our services are tailored to every client’s specific needs. With a full suite of capabilities. </p>
-                <a href="#">All Services <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                <a href="ppc.html" target="_blank">All Services <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
             <div class="col-lg-8">
                 <svg id="bg-services"
                      width="100%"
