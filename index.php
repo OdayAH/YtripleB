@@ -119,7 +119,7 @@
                 <h2> Explore The Services<br/>
                     We Offer For You </h2>
                 <p>  Powered by leading creativity, strategy building and teamwork. Our services are tailored to every client’s specific needs. With a full suite of capabilities. </p>
-                <a href="ppc.html" target="_blank">All Services <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                <a href="ppc.php" target="_blank">All Services <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
             <div class="col-lg-8">
                 <svg id="bg-services"
                      width="100%"
@@ -234,7 +234,7 @@
     <div class="container">
     <h2>What we offer</h2>
         <div class="row">
-            <div class="media col-md-6 col-lg-4">
+            <div class="media col-md-3 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/quality-results.png" alt=""></div>
                 <div class="media-body">
                     <h5 class="mb-0">Quality Results</h5>

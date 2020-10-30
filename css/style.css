@@ -115,7 +115,9 @@ body {
   padding: 5px 15px !important;
   text-transform: uppercase;
 }
-
+#gtco-main-nav .navbar-nav li a:hover{
+  color: #00ff00;
+}
 
 #gtco-main-nav::after {
   position: absolute;
@@ -291,6 +293,7 @@ nav a:hover{
 @media (max-width: 767px) {
   .gtco-banner-area .col-md-6 .card .card-img-top {
     margin-top: 100px;
+
   }
 }
 
@@ -373,7 +376,9 @@ nav a:hover{
     flex: 0 0 100%;
     max-width: 100%;
   }
-}
+ 
+} 
+
 .gtco-features .col-lg-8 .card {
   background: #fff;
   margin: 30px 5px;

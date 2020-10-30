@@ -94,7 +94,7 @@ if(!$conn){
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- custom CSS -->
     <link rel="stylesheet" href="css/style.css">
-<footer class="container-fluid" id="gtco-footer">
+<footer class="container-fluid" id="gtco-footer" >
     <div class="container">
         <div class="row">
             <div class="col-lg-6" id="contact">
@@ -132,7 +132,7 @@ if(!$conn){
                     <div class="col-6">
                         <h4>Services</h4>
                         <ul class="nav flex-column services-nav">
-                            <li class="nav-item"><a class="nav-link"target="_blank" href="#">Web Design</a></li>
+                            <li class="nav-item"><a class="nav-link"target="_blank" href="web.php">Web Design</a></li>
                             <li class="nav-item"><a class="nav-link"target="_blank" href="ppc.php">PPC</a></li>
                             <li class="nav-item"><a class="nav-link"target="_blank" href="seo.php">SEO</a></li>
                             <li class="nav-item"><a class="nav-link"target="_blank" href="#">Social Media Management</a></li>
@@ -147,4 +147,21 @@ if(!$conn){
         </div>
     </div>
 </footer>
+               <!--  Jquery js file  -->
+               <script src="./PortFolio_Website-master/js/jquery.3.4.1.js"></script>
+
+<!--  Bootstrap js file  -->
+<script src="./PortFolio_Website-master/js/bootstrap.min.js"></script>
+
+<!--  isotope js library  -->
+<script src="./PortFolio_Website-master/vendor/isotope/isotope.min.js"></script>
+
+<!--  Magnific popup script file  -->
+<script src="./PortFolio_Website-master/vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
+
+<!--  Owl-carousel js file  -->
+<script src="./PortFolio_Website-master/vendor/owl-carousel/js/owl.carousel.min.js"></script>
+
+<!--  custom js file  -->
+<script src="./PortFolio_Website-master/js/main.js"></script>
 </html>
