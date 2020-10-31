@@ -2,46 +2,8 @@
 @import url(./fonts.css);
 
 
-/* css variables */ 
-@import url(./partials/_variables.css);
 
-/* import global styling */ 
-@import url(./partials/_global.css);
 
-/* start navigation */ 
-
-.header_area .main-menu .navbar .navbar-brand{
-    padding-left: 50px; 
- 
-
-}
-
-.header_area .main-menu .navbar{
-    padding: 1rem 20rem ; 
-   
-}
-
-.header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
-    text-transform: uppercase;
-    padding: 1.7rem;
-    color: white; 
-    
-}
-
-.header_area .main-menu .navbar-nav .active a{
-    background: var(--gradient-color);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
-.header_area .main-menu .navbar-nav a:hover{
-    background: var(--gradient-color);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
 
 
 /* end navigation */ 
@@ -51,8 +13,8 @@ background-size: cover;
 background-repeat: no-repeat;
 width: 100%;
 height: 100vh;
-margin-top: -88px;
-z-index: -1;
+margin-top: -110px;
+z-index: 1;
 }
 html{
     overflow-x: hidden;
@@ -106,3 +68,8 @@ p,ul{
    }
 
   }
+  @media screen and (max-width:460px){
+    #banner{
+        background:url(assets/webmobile.png);
+        background-size: cover;
+    }}

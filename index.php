@@ -66,9 +66,9 @@
 <div class="container-fluid gtco-feature" id="services">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-7  d-none d-sm-block">
                 <div class="cover">
-                    <div class="card">
+                    <div class="card ">
                         <svg
                                 class="back-bg"
                                 width="100%" viewBox="0 0 900 700" style="position:absolute; z-index: -1">
@@ -108,7 +108,7 @@
                   
                     </small>
                 </p>
-                <a href="#">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                <a href="about.php">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
         </div>
     </div>
 </div>
@@ -119,7 +119,7 @@
                 <h2> Explore The Services<br/>
                     We Offer For You </h2>
                 <p>  Powered by leading creativity, strategy building and teamwork. Our services are tailored to every client’s specific needs. With a full suite of capabilities. </p>
-                <a href="ppc.php" target="_blank">All Services <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
+                </div>
             <div class="col-lg-8">
                 <svg id="bg-services"
                      width="100%"
@@ -138,7 +138,7 @@
                         <div class="card text-center">
                             <div class="oval"><img class="card-img-top" src="images/web-design.png" alt=""></div>
                             <div class="card-body">
-                                <h3 class="card-title">Web Design</h3>
+                                <h3 class="card-title"><a style="color:#0000ff; background:none;" href="web.php">Web Design</a>  </h3>
                                 <p class="card-text">We're not just responsible for giving you a modern, updated website design – we're also responsible for making your website a powerful sales tool for your business.
                                     </p>
                             </div>
@@ -146,7 +146,7 @@
                         <div class="card text-center">
                             <div class="oval"><img class="card-img-top" src="images/marketing.png" alt=""></div>
                             <div class="card-body">
-                                <h3 class="card-title">Email Marketing</h3>
+                                <h3 class="card-title"> <a style="color:#0000ff; background:none;" href="email.php">Email Marketing </a> </h3>
                                 <p class="card-text"> A strong email marketing campaign is crucial in strengthening relationships with your customers.
                                     </p>
                             </div>
@@ -156,7 +156,7 @@
                         <div class="card text-center">
                             <div class="oval"><img class="card-img-top" src="images/seo.png" alt=""></div>
                             <div class="card-body">
-                                <h3 class="card-title">SEO</h3>
+                                <h3 class="card-title"> <a style="color:#0000ff; background:none;" href="seo.php">SEO</a> </h3>
                                 <p class="card-text">Our ever-expanding network of websites gives us the ability to increase your rankings for the most relevant keywords.
                                    </p>
                             </div>
@@ -164,7 +164,7 @@
                         <div class="card text-center">
                             <div class="oval"><img class="card-img-top" src="images/online-pay.png" alt=""></div>
                             <div class="card-body">
-                                <h3 class="card-title">PPC</h3>
+                                <h3 class="card-title"> <a  style="color:#0000ff; background:none;" href="ppc.php">PPC </a> </h3>
                                 <p class="card-text">Digital advertising is just one strategy Y TripleB Marketing leverages to build a holistic, effective advertising campaign for your business.
                                     </p>
                             </div>
@@ -172,7 +172,7 @@
                         <div class="card text-center">
                             <div class="oval"><img class="card-img-top" src="images/relationship.png " alt=""></div>
                             <div class="card-body">
-                                <h3 class="card-title">Social Media Management</h3>
+                              <h3 class="card-title"> <a style="color:#0000ff; background:none;" href="smm.php">Social Media Management</a> </h3> 
                                 <p class="card-text"> Our social media specialists can work for you and get you known by everyone around!
                                     </p>
                             </div>
@@ -238,48 +238,45 @@
                 <div class="oval mr-4"><img class="align-self-start" src="images/quality-results.png" alt=""></div>
                 <div class="media-body">
                     <h5 class="mb-0">Quality Results</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
+                    Y-TripleB brings a steady flow of targeted traffic of people who convert into leads and sales. You can save money and reach more customers for less money using an everlasting upgraded techniques
                 </div>
             </div>
             <div class="media col-md-6 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/analytics.png" alt=""></div>
                 <div class="media-body">
                     <h5 class="mb-0">Analytics</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
+                    Translating  customer behavior into actionable business data. using digital analytics tools to examine the many online channels their buyers might interact with and identify new revenue opportunities from existing campaigns.
+
+
                 </div>
             </div>
             <div class="media col-md-6 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/affordable-pricing.png" alt=""></div>
                 <div class="media-body">
                     <h5 class="mb-0">Affordable Pricing</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
+                    Customizing solutions that fits your needs your goals and your budget, & for the record once you see that you're getting 3× what you put in price will no longer be a problem
+
                 </div>
             </div>
             <div class="media col-md-6 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/easy-to-use.png" alt=""></div>
                 <div class="media-body">
-                    <h5 class="mb-0">Easy To Use</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
+                    <h5 class="mb-0">Done For You</h5>
+                    DFY Service is the ultimate solution you need: book it, pay for it, forget about it, & watch the sales increasing, let us handle the dirty stuff instead of spending endless hours learning it, trying to implement it, think smart and take advantage of our experience.
                 </div>
             </div>
             <div class="media col-md-6 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/free-support.png" alt=""></div>
                 <div class="media-body">
                     <h5 class="mb-0">Free Support</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
+                    Dedicated account manager  holding your hand along the way and setting up meetings with the concerned team to provide  answers to your questions
                 </div>
             </div>
             <div class="media col-md-6 col-lg-4">
                 <div class="oval mr-4"><img class="align-self-start" src="images/effectively-increase.png" alt=""></div>
                 <div class="media-body">
                     <h5 class="mb-0">Effectively Increase</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
+                    Your Sales-->revenue-->profit, customer loyalty, scaling up your business with a click, & positioning your services and business as a market dominant
                 </div>
             </div>
         </div>

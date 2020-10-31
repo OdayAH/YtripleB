@@ -56,7 +56,7 @@ background-size: cover;
 background-repeat: no-repeat;
 width: 100%;
 height: 100vh;
-margin-top:-88.5px;
+margin-top:-110px;
 z-index: -1;
 }
 .smaller{
@@ -84,9 +84,11 @@ padding-top: 90px ;
    html{
       overflow-x: hidden;
   }
-  @media screen and (max-width:360px){
+  @media screen and (max-width:460px){
       #banner{
-          background:none;
+          background:url(assets/seomobile.png);
+          background-size: cover;
+          margin-top: -110px;
       }
       .col-md-5 img{
           width: 90%;

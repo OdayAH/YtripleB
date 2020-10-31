@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+    <style>
+        
+    </style>
     <title>Search Engine Optimization</title>
     <link rel="stylesheet" href="seo.css">
  

@@ -102,23 +102,22 @@
 .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	border-color: transparent;
 }
-.nav-link{
-	color: #212121 !important;
-	font-weight: 500;
+.newnavlink{
+
     transition: all 200ms linear;
 }
-.nav-item:hover .nav-link{
+.newnavitem:hover .newnavlink{
 	color: #333 !important;
 }
-.nav-item.active .nav-link{
+.newnavitem.active .nav-link{
 	color: #777 !important;
 }
-.nav-link {
+.newnavlink{
 	position: relative;
 	padding: 5px 0 !important;
 	display: inline-block;
 }
-.nav-item:after{
+.newnavitem:after{
 	position: absolute;
 	bottom: -5px;
 	left: 0;
@@ -129,14 +128,14 @@
 	opacity: 0;
     transition: all 200ms linear;
 }
-.nav-item:hover:after{
+.newnavitem:hover:after{
 	bottom: 0;
 	opacity: 1;
 }
-.nav-item.active:hover:after{
+.newnavitem.active:hover:after{
 	opacity: 0;
 }
-.nav-item{
+.navitemnew{
 	position: relative;
     transition: all 200ms linear;
 }
@@ -144,132 +143,6 @@
 /* #Primary style
 ================================================== */
 
-.section {
-    position: relative;
-	width: 100%;
-	display: block;
-}
-.full-height {
-    height: 100vh;
-}
-.over-hide {
-    overflow: hidden;
-}
-.absolute-center {
-	position: absolute;
-	top: 50%;
-	left: 0;
-	width: 100%;
-  margin-top: 40px;
-	transform: translateY(-50%);
-	z-index: 20;
-}
-
-body.hero-anime h1 span:nth-child(1){
-	opacity: 0;
-	transform: translateY(-20px);
-}
-body.hero-anime h1 span:nth-child(2){
-	opacity: 0;
-	transform: translateY(-30px);
-}
-body.hero-anime h1 span:nth-child(3){
-	opacity: 0;
-	transform: translateY(-50px);
-}
-body.hero-anime h1 span:nth-child(4){
-	opacity: 0;
-	transform: translateY(-10px);
-}
-body.hero-anime h1 span:nth-child(5){
-	opacity: 0;
-	transform: translateY(-50px);
-}
-body.hero-anime h1 span:nth-child(6){
-	opacity: 0;
-	transform: translateY(-20px);
-}
-body.hero-anime h1 span:nth-child(7){
-	opacity: 0;
-	transform: translateY(-40px);
-}
-body.hero-anime h1 span:nth-child(8){
-	opacity: 0;
-	transform: translateY(-10px);
-}
-body.hero-anime h1 span:nth-child(9){
-	opacity: 0;
-	transform: translateY(-30px);
-}
-body.hero-anime h1 span:nth-child(10){
-	opacity: 0;
-	transform: translateY(-20px);
-}
-h1 span:nth-child(1){
-    transition-delay: 1000ms;
-}
-h1 span:nth-child(2){
-    transition-delay: 700ms;
-}
-h1 span:nth-child(3){
-    transition-delay: 900ms;
-}
-h1 span:nth-child(4){
-    transition-delay: 800ms;
-}
-h1 span:nth-child(5){
-    transition-delay: 1000ms;
-}
-h1 span:nth-child(6){
-    transition-delay: 700ms;
-}
-h1 span:nth-child(7){
-    transition-delay: 900ms;
-}
-h1 span:nth-child(8){
-    transition-delay: 800ms;
-}
-h1 span:nth-child(9){
-    transition-delay: 600ms;
-}
-h1 span:nth-child(10){
-    transition-delay: 700ms;
-}
-body.hero-anime h1 span:nth-child(11){
-	opacity: 0;
-	transform: translateY(30px);
-}
-body.hero-anime h1 span:nth-child(12){
-	opacity: 0;
-	transform: translateY(50px);
-}
-body.hero-anime h1 span:nth-child(13){
-	opacity: 0;
-	transform: translateY(20px);
-}
-body.hero-anime h1 span:nth-child(14){
-	opacity: 0;
-	transform: translateY(30px);
-}
-body.hero-anime h1 span:nth-child(15){
-	opacity: 0;
-	transform: translateY(50px);
-}
-h1 span:nth-child(11){
-    transition-delay: 1300ms;
-}
-h1 span:nth-child(12){
-    transition-delay: 1500ms;
-}
-h1 span:nth-child(13){
-    transition-delay: 1400ms;
-}
-h1 span:nth-child(14){
-    transition-delay: 1200ms;
-}
-h1 span:nth-child(15){
-    transition-delay: 1450ms;
-}
 #switch,
 #circle {
 	cursor: pointer;

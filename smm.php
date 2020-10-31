@@ -9,10 +9,15 @@ background-repeat: no-repeat;
 background-size: cover ;
 width: 100%;
 height: 110vh;
-margin-top: -98px;
+margin-top: -110px;
 z-index: -1;
 
-    }    
+    }      
+    @media (max-width:660px){
+        #banner{
+            background-image: url(assets/smmmobile.png);
+        }
+    } 
 .col-md-1 img{
     height: 100px;
 }

@@ -88,8 +88,7 @@ if(!$conn){
 
     <!-- awesone fonts css-->
     <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
-    <!-- owl carousel css-->
-    <link rel="stylesheet" href="owl-carousel/assets/owl.carousel.min.css" type="text/css">
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- custom CSS -->
@@ -132,13 +131,12 @@ if(!$conn){
                     <div class="col-6">
                         <h4>Services</h4>
                         <ul class="nav flex-column services-nav">
-                            <li class="nav-item"><a class="nav-link"target="_blank" href="web.php">Web Design</a></li>
-                            <li class="nav-item"><a class="nav-link"target="_blank" href="ppc.php">PPC</a></li>
-                            <li class="nav-item"><a class="nav-link"target="_blank" href="seo.php">SEO</a></li>
-                            <li class="nav-item"><a class="nav-link"target="_blank" href="#">Social Media Management</a></li>
-                            <li class="nav-item"><a class="nav-link"target="_blank" href="#">Email Marketing</a></li>
-                        </ul>
-                    </div>
+                            <li class="nav-item"><a class="nav-link"  href="web.php">Web Design</a></li>
+                            <li class="nav-item"><a class="nav-link"  href="ppc.php">PPC</a></li>
+                            <li class="nav-item"><a class="nav-link"  href="seo.php">SEO</a></li>
+                            <li class="nav-item"><a class="nav-link"  href="smm.php">Social Media Management</a></li>
+                            <li class="nav-item"><a class="nav-link"  href="email.php">Email Marketing</a></li>
+</ul>
                     <div class="col-12">
                         <p>&copy; 2020. All Rights Reserved. Design by <a href="" target="_blank">Holy Create</a>.</p>
                     </div>
@@ -148,20 +146,5 @@ if(!$conn){
     </div>
 </footer>
                <!--  Jquery js file  -->
-               <script src="./PortFolio_Website-master/js/jquery.3.4.1.js"></script>
 
-<!--  Bootstrap js file  -->
-<script src="./PortFolio_Website-master/js/bootstrap.min.js"></script>
-
-<!--  isotope js library  -->
-<script src="./PortFolio_Website-master/vendor/isotope/isotope.min.js"></script>
-
-<!--  Magnific popup script file  -->
-<script src="./PortFolio_Website-master/vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
-
-<!--  Owl-carousel js file  -->
-<script src="./PortFolio_Website-master/vendor/owl-carousel/js/owl.carousel.min.js"></script>
-
-<!--  custom js file  -->
-<script src="./PortFolio_Website-master/js/main.js"></script>
 </html>

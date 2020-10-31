@@ -59,7 +59,7 @@ Our researchers use 20+ tools and 100+ niche-specific sources to deliver leads w
     <img src="assets/people.jpg" alt="">
 </div>
 
-<div class="row"
+<div class="row">
 <div class="col-md-5 order-2 order-md-1">
     <img class="setup" src="assets/setup.jpg" alt="">
 </div>

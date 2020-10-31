@@ -12,9 +12,7 @@
 <link rel="stylesheet" href="./PortFolio_Website-master/vendor/Magnific-Popup/dist/magnific-popup.css">
 
 
-<!--  Owl-carousel css file  -->
-<link rel="stylesheet" href="./PortFolio_Website-master/vendor/owl-carousel/css/owl.carousel.min.css">
-<link rel="stylesheet" href="./PortFolio_Website-master/vendor/owl-carousel/css/owl.theme.default.min.css">
+
 
 
 <!--  custom css file  -->
@@ -43,15 +41,15 @@
                     
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto py-4 py-md-0">
-                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">
-                                <a class="nav-link "  href="index.php" >Home</a>
+                            <li class="nav-item  newnavitem  pl-4 pl-md-0 ml-0 ml-md-4 active">
+                                <a class="nav-link newnavlink "  href="index.php" >Home</a>
                             </li>
-                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                <a class="nav-link" href="about.php">About</a>
+                            <li class="nav-item  newnavitem pl-4 pl-md-0 ml-0 ml-md-4">
+                                <a class="nav-link newnavlink" href="about.php">About</a>
                             </li>
                          
-                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+                            <li class="nav-item  newnavitem pl-4 pl-md-0 ml-0 ml-md-4">
+                                <a class="nav-link newnavlink dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
                                 <div class="dropdown-menu">
                                     <a class="dropdown-item" href="seo.php">SEO</a>
                                     <a class="dropdown-item" href="ppc.php">PPC</a>
@@ -60,11 +58,11 @@
                                     <a class="dropdown-item" href="web.php">Web Design</a>
                                 </div>
                             </li>
-                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                <a class="nav-link" href="#">Blog</a>
+                             <li class="nav-item  newnavitem pl-4 pl-md-0 ml-0 ml-md-4">
+                                <a class="nav-link newnavlink" href="#">Blog</a>
                             </li>
-                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                <a class="nav-link" href="#">Contact</a>
+                            <li class="nav-item  newnavitem pl-4 pl-md-0 ml-0 ml-md-4">
+                                <a class="nav-link newnavlink" href="#">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -87,14 +85,7 @@
 <!--  Bootstrap js file  -->
 <script src="./PortFolio_Website-master/js/bootstrap.min.js"></script>
 
-<!--  isotope js library  -->
-<script src="./PortFolio_Website-master/vendor/isotope/isotope.min.js"></script>
 
-<!--  Magnific popup script file  -->
-<script src="./PortFolio_Website-master/vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
-
-<!--  Owl-carousel js file  -->
-<script src="./PortFolio_Website-master/vendor/owl-carousel/js/owl.carousel.min.js"></script>
 </body>
 </body>
 </html>
